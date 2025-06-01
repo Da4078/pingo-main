@@ -1,4 +1,4 @@
-# Dobrodošli u vašu PingoApp 👋
+# Dobrodošli u vaš Pingo 👋
 
 Ovo je [Expo](https://expo.dev) projekat kreiran sa [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
